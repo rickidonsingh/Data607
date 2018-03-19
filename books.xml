@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table-of-books>
+	<book>
+		<Title>The Catcher in the Rye</Title>
+		<Author>JD Salinger</Author>
+		<Brief>Salinger’s sort of autobiographical account</Brief>
+		<ISBN>7543321726</ISBN>
+		<Pages>240</Pages>
+	</book>
+	<book>
+		<Title>Moby Dick</Title>
+		<Author>Herman Melville</Author>
+		<Brief>Captain Ahab on the hunt for the monstrous white whale</Brief>
+		<ISBN>1503280780</ISBN>
+		<Pages>378</Pages>
+	</book>
+	<book>
+		<Title>The Grapes of Wrath</Title>
+		<Author>John Steinbeck</Author>
+		<Brief>Poor family driven from their land in the Great Depression</Brief>
+		<ISBN>0143039431</ISBN>
+		<Pages>464</Pages>
+	</book>
+</table-of-books>
